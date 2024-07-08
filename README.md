@@ -1,4 +1,4 @@
-I am a professional software developer, this is my personal github for old school projects and anything random I decide to upload for fun.
+Random stuff ranging from old school projects to miscellaneous projects I decided to code up for fun.
 
 <!---
 Ghoststorm34/Ghoststorm34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
